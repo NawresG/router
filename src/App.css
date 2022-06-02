@@ -1,0 +1,24 @@
+
+.App {
+  text-align: center;
+}
+.AppTitle {
+  color: rgb(92, 84, 84);
+  text-align: center;
+  padding-top: 2rem;
+ 
+}
+body{background-color:rgb(243, 239, 236);}
+.movie-list {
+  color: rgb(102, 15, 15);
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+  margin-bottom: 50px;
+}
+.nav{
+  padding-top: 30px;
+  flex-direction: column;
+  align-content: space-around;
+}
